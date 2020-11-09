@@ -1,13 +1,19 @@
 {
-  "name": "gatsby-theme-thepighero",
-  "version": "1.0.0",
+  "name": "@thepighero/gatsby-theme-thepighero",
+  "version": "0.1.0",
   "description": "A theme that is used for thepighero",
-  "main": "index.js",
+  "main": "n/a",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "gatsby",
+    "blog",
+    "theme",
+    "react"
+  ],
+  "author": "The Pig Hero",
+  "license": "MIT",
   "dependencies": {
     "gatsby-plugin-catch-links": "^2.3.15",
     "gatsby-plugin-google-analytics": "^2.4.0",

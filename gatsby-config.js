@@ -5,7 +5,7 @@ module.exports = function theme({
     root,
 } = {}) {
     return {
-        site: {
+        siteMetadata: {
             title: 'Title here',
             description: 'Meta description here',
             author: 'Your name here',
